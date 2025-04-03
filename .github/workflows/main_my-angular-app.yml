@@ -64,5 +64,5 @@ jobs:
         with:
           app-name: 'my-angular-app'
           slot-name: 'Production'
-          package: angular-app
+          package: angular-app/dist/azure-learning-ui/browser
           
